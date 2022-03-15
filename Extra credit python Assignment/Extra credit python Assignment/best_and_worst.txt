@@ -1,0 +1,19 @@
+Output of the file best_and_worst.txt: 
+indicator		 Max 		 Min
+------------------------------------------
+------------------------------------------
+heart Disease Death Rate (2007):
+Mississippi		266.5
+Minnesota				129.8
+Motor Vehicle Death Rate(2009): 
+Wyoming		24.62
+District of Columbia				4.84
+Teen Birth Rate (2009): 
+Mississippi		64.2
+New Hampshire				16.4
+Adult Smoking :
+West Virginia		26.8
+Utah				9.1
+Adult Obesity (2010): 
+Mississippi		34.5
+Colorado				21.4
